@@ -1,3 +1,6 @@
+![image](https://github.com/Nivf/CarLease/assets/17964082/05c0c1dd-9053-4cde-ab33-0b3b7472e65e)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
