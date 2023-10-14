@@ -1,4 +1,4 @@
-![image](https://github.com/Nivf/CarLease/assets/17964082/05c0c1dd-9053-4cde-ab33-0b3b7472e65e)
+![image](https://github.com/Nivf/CarLease/assets/17964082/1d6e30bb-f246-49c8-a26f-9cbbaba75e12)
 
 
 # Getting Started with Create React App
